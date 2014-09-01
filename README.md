@@ -1,6 +1,5 @@
 
-### True confessions: I was tricked by a Hotwire scam
-####*the "hot rate hotel" story*
+### **True confessions** I was tricked by a Hotwire scam: *the "hot rate hotel" story*
 
 This is the place where I will tell you the story about how hotwire.com uses language, typography, and UX to scam their customers into unloading their lowest-quality inventory in the belief that they are getting an amazing deal on a higher-priced hotel. They did it to me and I want my money back. 
 
