@@ -22,7 +22,11 @@ Ok, so if you do go down to the footnote, you get this:
 
 ![](footnote.jpg)
 
-This says that the "Standard Price" isn't the price that one would normally pay for the room you're about to book blind. The standard price, listed right above the hotwire price, is a conveniently-placed factoid about the going rate for the median hotel room in that neighborhood. You're not getting a great deal at the Ritz, you're getting a couple bucks off a room, next door to the Ritz, at the Holiday Inn Express. The "discount" is that they've chosen a hotel for you that is **already cheaper** than the Ritz, because **it's a different hotel**. (In this framework, I guess the Ritz itself would be a Cold Rate Hotel! because its rates are higher than the median of the area).
+(You can download a pdf of the full hotwire page from [the root of this repo](https://github.com/laurieskelly/hotwire_scam).
+
+This footnote explains that the "Standard Price" of $489 is not the price that one would normally pay for the room that I was about to book blind. The standard price, which they list right above the hotwire price, is just an interesting factoid about hotel rooms in that neighborhood in general. 
+
+You're not getting a great deal at the Ritz, you're getting a couple bucks off a room, next door to the Ritz, at the Holiday Inn Express. The "discount" is that they've chosen a hotel for you that is **already cheaper** than the Ritz, because **it's a different hotel**. (In this framework, I guess the Ritz itself, would be a Cold Rate Hotel because its rates are higher than the median of the area). 
 
 If you were sneaky enough to find the footnote, thinking in the terms of a sale price / discounted price, it would be pretty confusing, regardless. I am pretty sure that I would have understood it if I had found the camouflaged double dagger and read the footnote. But hindsight is 20/20. In truth, the concept was explained to me by the customer service agent when I called to ask why they had implied that the Holiday Inn Express Brooklyn had a standard rate of $489. I, of course, could find no rooms there at that rate. She showed me the "asterisk" (double dagger) that explains the "discount" (difference in cost between a shitty hotel in a nice neighborhood and the nice hotels that are around it). 
 
@@ -38,14 +42,17 @@ I hope that unloading these "Hot Load Hotel" rooms is extremely high priority to
 
 On the phone, the customer service agent also explained to me what a median is. She told me that a median is the middle number in a set that's been ranked in order. (Educational!) The median rate they claimed to have calculated for a three-star hotel in Brooklyn, based on "published" rates from "leading retail travel sites" in the 24-48 hours preceding 5:00pm Eastern time on 8/31/14, is thus $489. Looking at Kayak, I say, "Shenanigans." 
 
-### Just a smidge of data before I go... 
+### Oh, how about just a smidge of data before I go?
 
-For instance, right now on kayak, if I look for hotels and restrict my search to three star hotels in Brooklyn, same dates, same # guests, I see one price at exactly $489 (the purported median), one priced higher than that, seventeen that are lower than $489, and thirteen listings that do not have published prices. Even if hotwire gets to use some funky definition of "published", and even if every single unpublished listing is over $489, that would make the Kayak median for Brooklyn three-star hotels for those dates and two guests $285, not $489. And the "Hot Rate Hotel" "discount" would be 45%, not 68%. 
+Right now on kayak, if I look for three star hotels in Brooklyn using the same dates and number guests, I do not get a median fof $489. One hotel, Hotel Le Bleu, is exactly $489 (the purported median), and then there is one priced higher than that, the Pointe Plaza at $656. Then there are seventeen that are lower than $489, and thirteen listings that do not have published prices. 
 
-And remember that we're being kind to hotwire, and pretending that all of the unpublished rates are above $489. The unpublished rates won't all be above $489. 
+Even if hotwire gets to use some funky definition of "published", and even if every single unpublished listing is over $489, (this is the fun part about medians), the median of these 32 listings is $285, not $489. That would make the "Hot Rate Hotel" "discount" 45%, not 68%. 
 
-Hotwire will probably act like it's impossible or proprietary to disclose what rates they used to calculate the median to make up a fake discount-sounding nonsense comparison, but it's not. The published room rates for those rooms over the time window in question are available. If I can get those historical rates, we can see whether it was possible or likely for them to find that suspiciously high figure using the method they claim to use in their fine print. 
+And remember that we're being kind to hotwire, and pretending that all of the unpublished rates are above $489. The unpublished rates won't all be above $489. The median would be even lower than $285, and the "discount" would be even slimmer than 45%. 
 
-The consumer protection act has to come into play somewhere here. It's one thing to make up a dumb concept to lure dopes into buying something they don't mean to buy, but making up numbers is, as I understand it, something that is much harder to get away with. 
+I mean, the consumer protection act has to come into play somewhere here. It's one thing to make up a dumb concept to lure dopes into buying something they don't mean to buy... even though I think it's deceptive and it should be illegal, I think that's tougher to prove. However, once someone is just making up numbers, as I understand it, there are laws that make it much harder to get away with that. 
 
-Anyway, don't use hotwire. And if I get my hands on that data, I'll be back. 
+Hotwire will probably act like it's impossible or proprietary to disclose what rates they used to calculate the median to make up a fake discount-sounding nonsense comparison, but it's not. The published room rates for those rooms over the time window in question are somewhere. If I can get those historical rates, we can see whether it was possible or likely for them to find that suspiciously high figure using the method they claim to use in their fine print. 
+
+
+Anyway, don't use hotwire. And if I get my hands on that data, I'll be back! 
