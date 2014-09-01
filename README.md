@@ -38,4 +38,14 @@ I hope that unloading these "Hot Load Hotel" rooms is extremely high priority to
 
 On the phone, the customer service agent also explained to me what a median is. She told me that a median is the middle number in a set that's been ranked in order. (Educational!) The median rate they claimed to have calculated for a three-star hotel in Brooklyn, based on "published" rates from "leading retail travel sites" in the 24-48 hours preceding 5:00pm Eastern time on 8/31/14, is thus $489. Looking at Kayak, I say, "Shenanigans." 
 
-I'll be back with more on that later... 
+### Just a smidge of data before I go... 
+
+For instance, right now on kayak, if I look for hotels and restrict my search to three star hotels in Brooklyn, same dates, same # guests, I see one price at exactly $489 (the purported median), one priced higher than that, seventeen that are lower than $489, and thirteen listings that do not have published prices. Even if hotwire gets to use some funky definition of "published", and even if every single unpublished listing is over $489, that would make the Kayak median for Brooklyn three-star hotels for those dates and two guests $285, not $489. And the "Hot Rate Hotel" "discount" would be 45%, not 68%. 
+
+And remember that we're being kind to hotwire, and pretending that all of the unpublished rates are above $489. The unpublished rates won't all be above $489. 
+
+Hotwire will probably act like it's impossible or proprietary to disclose what rates they used to calculate the median to make up a fake discount-sounding nonsense comparison, but it's not. The published room rates for those rooms over the time window in question are available. If I can get those historical rates, we can see whether it was possible or likely for them to find that suspiciously high figure using the method they claim to use in their fine print. 
+
+The consumer protection act has to come into play somewhere here. It's one thing to make up a dumb concept to lure dopes into buying something they don't mean to buy, but making up numbers is, as I understand it, something that is much harder to get away with. 
+
+Anyway, don't use hotwire. And if I get my hands on that data, I'll be back. 
