@@ -1,7 +1,7 @@
 ###Three-star hotels in Brooklyn for 9/11-9/14, 2 adult guests  
 *Accessed 8/31/14*  
 If every "call" price is above $489, the highest possible median of this list would be **$285**.  
-If "call" prices count as "unpublished", the highest possible median of this list is *$210*.  
+If "call" prices do not count as "published", the highest possible median of this list is *$210*.  
 
  # | Price | Hotel
 ---|-------|------------------------------
@@ -14,7 +14,7 @@ If "call" prices count as "unpublished", the highest possible median of this lis
  7 | $186  | Best Western Plus Brooklyn Bay Hotel
  8 | $193  | Hotel BPM - Brooklyn New York
  9 | $195  | Best Western Plus Prospect Park
-*10* | *$210*  | *Comfort Inn*
+**10** | **$210**  | **Comfort Inn**
 11 | $225  | Holiday Inn Express Brooklyn
 12 | $239  | Henry Norman Hotel
 13 | $249  | Hotel Indigo Brooklyn
