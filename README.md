@@ -1,7 +1,9 @@
 
 ### True confessions: I was tricked by a Hotwire scam
 
-This is the story about how [hotwire](http://www.glassdoor.com/Reviews/Hotwire-Reviews-E14912.htm?sort.sortType=OR&sort.ascending=true) scams their customers into unloading their lowest-quality inventory using slimy tricks of language, typography, and UX, that imply they are getting an amazing deal on a higher-priced hotel, when they are just getting a room that is near some higher-priced hotels. They did it to me and I want my money back. At the very least, I don't want any of my friends to fall for this scam themselves. 
+This is the story about how [hotwire](http://www.glassdoor.com/Reviews/Hotwire-Reviews-E14912.htm?sort.sortType=OR&sort.ascending=true) scams their customers into unloading hotwire's lowest-quality inventory: using slimy tricks of language, typography, and UX, hotwire implies the customer is getting an amazing deal on a higher-priced hotel, when they are just getting a room that in the same neighborhood as some nicer hotels. 
+
+Hotwire did this to me and I want my money back. At the very least, I don't want any of my friends to fall for this scam themselves. But ideally, I'd like to not stay at the Holiday Inn Express Brooklyn when my boyfriend comes to visit me later this month.
 
 If you are a lawyer and believe that hotwire.com is crossing legal lines as well as those of poor taste, please contact me. 
 
