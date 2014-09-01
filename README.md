@@ -1,5 +1,5 @@
 
-### **True confessions** I was tricked by a Hotwire scam: *the "hot rate hotel" story*
+### True confessions: I was tricked by a Hotwire scam
 
 This is the story about how hotwire scams their customers into unloading their lowest-quality inventory, using language, typography, and UX to lead them to believe they are getting an amazing deal on a higher-priced hotel. They did it to me and I want my money back. At the very least, I don't want any of my friends to fall for this scam themselves. 
 
@@ -8,7 +8,7 @@ If you are a lawyer and believe that hotwire.com is crossing legal lines as well
 ### The ol' Cloak and Double Dagger
 Look at the image below, specifically at the two places where the $489 figure is crossed out. You might think this is saying "The price is usually $489+" ($489 or more!? this must be a pretty swanky mystery hotel), and the strikethrough indicates that this Hotel has a Hot Rate that is much lower than it usually is. We're familiar with this visual language. It indicates a sale. 
 
-![](advertised_price2.jpg)
+![](advertised_price.jpg)
 
 If you look at the right side, (under the stars) you can notice a small separation between the crossed-out number and the plus sign, but on the right under "standard price" the line is completely continuous through all of the symbols. The eagle-eyed consumer might have noticed the gap and gone to the foot of the page for a disclaimer. The woman at the call center called it an asterisk (*), but it's a [double dagger](http://en.wikipedia.org/wiki/Dagger_(typography)) (‡). The double dagger is a symbol that is used to direct a reader to a footnote, but in this case you can't deny that it drastically reduces the chance that the visitor will notice and do so. 
 
