@@ -1,27 +1,29 @@
-Three-star hotels in Brooklyn for 9/11-9/14, 2 adult guests
-Accessed 8/31/14 
+###Three-star hotels in Brooklyn for 9/11-9/14, 2 adult guests  
+*Accessed 8/31/14*
+If every "call" price is above $489, the highest possible median of this list would be **$285**.
+If "call" prices are "unpublished", the median of this list is *$210*.
 
  # | Price | Hotel
 ---|-------|------------------------------
- 1 | $225  | Holiday Inn Express Brooklyn
- 2 | $489  | Hotel Le Bleu
- 3 | $195  | Best Western Plus Prospect Park
- 4 | $186  | Best Western Plus Arena
- 5 | $656  | Pointe Plaza
- 6 | $281  | Aloft New York Brooklyn
- 7 | $284  | Condor Hotel
- 8 | $249  | Hotel Indigo Brooklyn
- 9 | $172  | Union Hotel
-10 | $139  | The Missing Lantern
-11 | $184  | La Quinta Inn & Suites Brooklyn Downtown
-12 | $193  | Hotel BPM - Brooklyn New York
-13 | $274  | Fairfield Inn & Suites
-14 | $186  | Best Western Plus Brooklyn Bay Hotel
-15 | $180  | Sumner
-16 | $139  | Midwood Suites Brooklyn
-17 | $210  | Comfort Inn
-18 | $239  | Henry Norman Hotel
-19 | $286  | Hampton Inn Brooklyn Downtown
+ 1 | $139  | The Missing Lantern
+ 2 | $139  | Midwood Suites Brooklyn
+ 3 | $172  | Union Hotel
+ 4 | $180  | Sumner
+ 5 | $184  | La Quinta Inn & Suites Brooklyn Downtown
+ 6 | $186  | Best Western Plus Arena
+ 7 | $186  | Best Western Plus Brooklyn Bay Hotel
+ 8 | $193  | Hotel BPM - Brooklyn New York
+ 9 | $195  | Best Western Plus Prospect Park
+*10* | *$210*  | *Comfort Inn*
+11 | $225  | Holiday Inn Express Brooklyn
+12 | $239  | Henry Norman Hotel
+13 | $249  | Hotel Indigo Brooklyn
+14 | $274  | Fairfield Inn & Suites
+15 | $281  | Aloft New York Brooklyn
+**16** | **$284**  | **Condor Hotel**
+**17** | **$286**  | **Hampton Inn Brooklyn Downtown**
+18 | $489  | Hotel Le Bleu
+19 | $656  | Pointe Plaza
 20 | call  | NU Hotel Brooklyn
 21 | call  | Hotel Le Jolie
 22 | call  | Habitat 101
