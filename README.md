@@ -1,7 +1,7 @@
 
 ### True confessions: I was tricked by a Hotwire scam
 
-This is the story about how [hotwire](http://www.glassdoor.com/Reviews/Hotwire-Reviews-E14912.htm?sort.sortType=OR&sort.ascending=true) scams their customers into unloading the site's lowest-quality inventory: using slimy tricks of language, typography, and UX, hotwire implies the customer is getting an amazing deal on a higher-priced hotel, when they are just getting a room in a hotel that is not as nice as the other hotels in its neighborhood. 
+This is the story about how [hotwire](http://www.glassdoor.com/Reviews/Hotwire-Reviews-E14912.htm?sort.sortType=OR&sort.ascending=true) scams their customers into unloading the site's lowest-quality inventory: using tricks of language, typography, and UX, hotwire implies the customer is getting an amazing deal on a higher-priced hotel, when they are just getting a room in a hotel that is not as nice as the other hotels in its neighborhood. 
 
 It's like saying you're getting a great deal on a yacht because you're actually buying a surprise rowboat. 
 
@@ -14,7 +14,7 @@ Look at the image below, specifically at the two places where the $489 figure is
 
 ![](advertised_price.jpg)
 
-If you look at the right side, (under the stars) you can notice a small separation between the crossed-out number and the plus sign, but on the right under "standard price" the line is completely continuous through all of the symbols. The eagle-eyed consumer might have noticed the gap and gone to the foot of the page for a disclaimer. The woman at the call center called it an asterisk (*), but it's a [double dagger](http://en.wikipedia.org/wiki/Dagger_(typography)) (‡). The double dagger is less common than the asterisk, but it is also a symbol that is used to direct a reader to a footnote. In this case, though, you can't deny that it conveniently and drastically reduces the chance that the visitor will notice the superscript mark and go read the fine print. 
+If you look at the right side, (under the stars) you can notice a small separation between the crossed-out number and the plus sign, but in the center under "standard price" the line is completely continuous through all of the symbols. The eagle-eyed consumer might have noticed the gap and gone to the foot of the page for a disclaimer, but I did not. The woman at the call center called it an asterisk (*), but it's a [double dagger](http://en.wikipedia.org/wiki/Dagger_(typography)) (‡). The double dagger is less common than the asterisk, but it is also a symbol that is used to direct a reader to a footnote. In this case, though, you can't deny that it conveniently and drastically reduces the chance that the visitor will notice the superscript mark and go read the fine print. 
 
 ### The footnote
 
@@ -22,9 +22,9 @@ Ok, so if you do go down to the footnote, you get this:
 
 ![](footnote.jpg)
 
-(You can download a pdf of the full hotwire page that I sawfrom [the root of this repo](https://github.com/laurieskelly/hotwire_scam).)
+(You can download a pdf of the full hotwire page that I saw from [the root of this repo](https://github.com/laurieskelly/hotwire_scam).)
 
-This footnote explains that the "Standard Price" of $489 is not the price that one would normally pay for the room that I was about to book blind. The standard price, which they list right above the hotwire price, is just an interesting factoid about hotel rooms in that neighborhood in general. 
+This footnote explains that the "Standard Price" of $489 is not the price that one would normally pay for the room that I was about to book blind. The standard price, which they list right above your "savings", is just an interesting factoid about hotel rooms in that neighborhood in general. And the amount "you save" is some strange theoretical subtraction of unlike quantities. 
 
 You're not getting a great deal at the Ritz, you're getting a couple bucks off a room, next door to the Ritz, at the Holiday Inn Express. The "discount" is that they've chosen a hotel for you that is **already cheaper** than the Ritz, because **it's a different hotel**. (In this framework, I guess the Ritz itself, would be a Cold Rate Hotel because its rates are higher than the median of the area). 
 
@@ -32,9 +32,9 @@ If you were sneaky enough to find the footnote, thinking in the terms of a sale 
 
 ### So what is a "Hot Rate Hotel"? 
 
-Now I know that a "Hot Rate Hotel" is a hotel whose prices are drastically below other hotels in the same neighborhood at the same star rating. A.k.a., a Hot Rate Hotel is the shittiest hotel around. Because, I'm sure, no one wants to stay in a shitty hotel in a nice area, hotwire had to get creative and scam us into thinking we were getting a great rate at a fancy hotel. Instead, you're a chump with a regular rate at the Holiday Inn Express Brooklyn. 
+Now I know that a "Hot Rate Hotel" is a hotel whose prices are drastically below other hotels in the same neighborhood at the same star rating. In other words, a Hot Rate Hotel is the crappiest hotel in the neighborhood. Because, I'm sure, no one wants to stay in a shitty hotel in a nice area, hotwire had to get creative and scam us into thinking we were getting a great rate at a fancy hotel. Instead, you're a chump with a regular rate at the Holiday Inn Express Brooklyn. That's what happened to me. 
 
-Using the ol' Hotwire, glass-half-full spirit, you can now think of all kinds of crappy things in your life as smart discounts, instead of just things that are crappier than other things. For instance, you might say you got a great discount price on that take-out cheeseburger you're eating in front of the TV tonight, when you compare what you paid for it to the price other people are paying for steaks as they are out wearing fancy clothes on dates with each other in your neighborhood. You're not lonely, you're a bargain shopper!
+Using the ol' Hotwire, glass-half-full spirit, you can now rebrand all kinds of crappy things in your life as smart discounts, instead of just things that are crappier than other things. For instance, you might say you got a great discount price on that take-out cheeseburger you're eating in front of the TV tonight, when you compare what you paid for it to the price other people are paying for steaks as they are out wearing fancy clothes on dates with each other in your neighborhood. You're not lonely, it's Hot Deal Dining! Remember when you didn't get into that Ivy and found yourself shipping out to state school 25 minutes from your parents' house instead of joining the Skulls and taking classes with celebrities like Natalie Portman? That's Hot Deal University!
 
 I hope that unloading these "Hot Deal Hotel" rooms is extremely high priority to hotwire, because I can't imagine anyone using their site again after suffering the insult of falling for this scam. 
 
