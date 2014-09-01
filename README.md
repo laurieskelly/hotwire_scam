@@ -18,11 +18,15 @@ Ok, so if you do go down to the footnote, you get this:
 
 ![](footnote.jpg)
 
+This says that the "Standard Price" isn't for the room you're about to buy blind, it's the going rate for the median hotel room in that neighborhood. You're not getting a deal at the Ritz, you're next door to the Ritz at the Holiday Inn Express. The "discount" is that they've chosen a hotel for you that is **already cheaper** than the Ritz, because **it's a different hotel**. (In this framework, I guess the Ritz itself would be a Cold Rate Hotel! because its rates are higher than the median of the area).
+
 Which, if you were thinking in the terms of a sale price / discounted price, would be pretty confusing, regardless. I am pretty sure that I would have gotten it if I had seen the footnote. But hindsight is 20/20. It was in fact explained to me by the customer service agent when I called to ask why they had implied that the Standard Rate at the Holiday Inn Express Brooklyn was $489. She showed me the "asterisk" (double dagger) that explains the "discount" (difference in cost between a shitty hotel in a nice neighborhood and the nice hotels that are around it). 
 
 ### So what is a "Hot Rate Hotel"? 
 
 Now I know that a "Hot Rate Hotel" is a hotel whose prices are drastically below other hotels in the same neighborhood at the same star rating. A.k.a., a Hot Rate Hotel is the shittiest hotel around. Because, I'm sure, no one wants to stay in a shitty hotel in a nice area, hotwire had to get creative and scam us into thinking we were getting a great rate at a fancy hotel. Instead, you're a chump with a regular rate at the Holiday Inn Express Brooklyn. 
+
+Now you can think of all kinds of things in your life as smart discounts, instead of just crappier things. You got a great discount price on that take-out cheeseburger you're eating in front of the TV, when you compare it to the price other people are paying for steaks in your neighborhood. You bargain shopper!
 
 I hope that unloading these "Hot Load Hotel" rooms is extremely high priority to hotwire, because I can't imagine anyone using their site again after suffering the insult of falling for this scam. 
 
