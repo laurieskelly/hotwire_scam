@@ -18,9 +18,9 @@ Ok, so if you do go down to the footnote, you get this:
 
 ![](footnote.jpg)
 
-This says that the "Standard Price" isn't for the room you're about to buy blind, it's the going rate for the median hotel room in that neighborhood. You're not getting a deal at the Ritz, you're next door to the Ritz at the Holiday Inn Express. The "discount" is that they've chosen a hotel for you that is **already cheaper** than the Ritz, because **it's a different hotel**. (In this framework, I guess the Ritz itself would be a Cold Rate Hotel! because its rates are higher than the median of the area).
+This says that the "Standard Price" isn't the price that one would normally pay for the room you're about to book blind. The standard price, listed right above the hotwire price, is a conveniently-placed factoid about the going rate for the median hotel room in that neighborhood. You're not getting a great deal at the Ritz, you're getting a couple bucks off a room, next door to the Ritz, at the Holiday Inn Express. The "discount" is that they've chosen a hotel for you that is **already cheaper** than the Ritz, because **it's a different hotel**. (In this framework, I guess the Ritz itself would be a Cold Rate Hotel! because its rates are higher than the median of the area).
 
-Which, if you were thinking in the terms of a sale price / discounted price, would be pretty confusing, regardless. I am pretty sure that I would have gotten it if I had seen the footnote. But hindsight is 20/20. It was in fact explained to me by the customer service agent when I called to ask why they had implied that the Standard Rate at the Holiday Inn Express Brooklyn was $489. She showed me the "asterisk" (double dagger) that explains the "discount" (difference in cost between a shitty hotel in a nice neighborhood and the nice hotels that are around it). 
+If you were sneaky enough to find the footnote, thinking in the terms of a sale price / discounted price, it would be pretty confusing, regardless. I am pretty sure that I would have understood it if I had found the camouflaged double dagger and read the footnote. But hindsight is 20/20. In truth, the concept was explained to me by the customer service agent when I called to ask why they had implied that the Holiday Inn Express Brooklyn had a standard rate of $489. I, of course, could find no rooms there at that rate. She showed me the "asterisk" (double dagger) that explains the "discount" (difference in cost between a shitty hotel in a nice neighborhood and the nice hotels that are around it). 
 
 ### So what is a "Hot Rate Hotel"? 
 
@@ -30,3 +30,8 @@ Now you can think of all kinds of things in your life as smart discounts, instea
 
 I hope that unloading these "Hot Load Hotel" rooms is extremely high priority to hotwire, because I can't imagine anyone using their site again after suffering the insult of falling for this scam. 
 
+### The last little thing... 
+
+On the phone, the customer service agent also explained to me what a median is. She told me that a median is the middle number in a set that's been ranked in order. (Educational!) The median rate they claimed to have calculated for a three-star hotel in Brooklyn, based on "published" rates from "leading retail travel sites" in the 24-48 hours preceding 5:00pm Eastern time on 8/31/14, is thus $489. Looking at Kayak, I say, "Shenanigans." 
+
+I'll be back with more on that later... 
