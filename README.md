@@ -7,7 +7,7 @@ This is the place where I will tell you the story about how hotwire.com uses lan
 If you are a lawyer and believe that hotwire.com is crossing legal lines as well as those of poor taste, please contact me. 
 
 ### The ol' Cloak and Double Dagger
-Look at the image below, specifically at the two places where the $489 figure is crossed out. You might think this is saying "The price is usually $489 +" and the strikethrough indicates that this Hotel has a Hot Rate that is much lower than it usually is. We're familiar with this visual language. It indicates a sale. 
+Look at the image below, specifically at the two places where the $489 figure is crossed out. You might think this is saying "The price is usually $489+" ($489 or more!? this must be a pretty swanky mystery hotel), and the strikethrough indicates that this Hotel has a Hot Rate that is much lower than it usually is. We're familiar with this visual language. It indicates a sale. 
 
 ![](advertised_price2.jpg)
 
