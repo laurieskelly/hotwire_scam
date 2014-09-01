@@ -1,7 +1,11 @@
 hotwire_scam
 ============
 
-This is the place where I will tell you the story about how hotwire.com uses language, typography, and UX to scam their customers into unloading their lowest-quality inventory in the belief that they are getting an amazing deal on a higher-priced hotel. 
+## Hotwire Scam! 
+
+This is the place where I will tell you the story about how hotwire.com uses language, typography, and UX to scam their customers into unloading their lowest-quality inventory in the belief that they are getting an amazing deal on a higher-priced hotel. They did it to me and I want my money back. 
+
+If you are a lawyer and believe that hotwire.com is crossing legal lines as well as those of poor taste, please contact me. 
 
 ### The ol' Cloak and Double Dagger
 Look at the image below, specifically at the two places where the $489 figure is crossed out. You might think this is saying "The price is usually $489 +" and the strikethrough indicates that this Hotel has a Hot Rate that is much lower than it usually is. We're familiar with this visual language. It indicates a sale. 
