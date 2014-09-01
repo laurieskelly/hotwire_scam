@@ -34,17 +34,17 @@ If you were sneaky enough to find the footnote, thinking in the terms of a sale 
 
 Now I know that a "Hot Rate Hotel" is a hotel whose prices are drastically below other hotels in the same neighborhood at the same star rating. A.k.a., a Hot Rate Hotel is the shittiest hotel around. Because, I'm sure, no one wants to stay in a shitty hotel in a nice area, hotwire had to get creative and scam us into thinking we were getting a great rate at a fancy hotel. Instead, you're a chump with a regular rate at the Holiday Inn Express Brooklyn. 
 
-Now you can think of all kinds of things in your life as smart discounts, instead of just crappier things. You got a great discount price on that take-out cheeseburger you're eating in front of the TV, when you compare it to the price other people are paying for steaks in your neighborhood. You bargain shopper!
+Using the ol' Hotwire, glass-half-full spirit, you can now think of all kinds of crappy things in your life as smart discounts, instead of just things that are crappier than other things. For instance, you might say you got a great discount price on that take-out cheeseburger you're eating in front of the TV tonight, when you compare what you paid for it to the price other people are paying for steaks as they are out wearing fancy clothes on dates with each other in your neighborhood. You're not lonely, you're a bargain shopper!
 
-I hope that unloading these "Hot Load Hotel" rooms is extremely high priority to hotwire, because I can't imagine anyone using their site again after suffering the insult of falling for this scam. 
+I hope that unloading these "Hot Deal Hotel" rooms is extremely high priority to hotwire, because I can't imagine anyone using their site again after suffering the insult of falling for this scam. 
 
 ### The last little thing... 
 
 On the phone, the customer service agent also explained to me what a median is. She told me that a median is the middle number in a set that's been ranked in order. (Educational!) The median rate they claimed to have calculated for a three-star hotel in Brooklyn, based on "published" rates from "leading retail travel sites" in the 24-48 hours preceding 5:00pm Eastern time on 8/31/14, is thus $489. Looking at Kayak, I say, "Shenanigans." 
 
-### Oh, how about just a smidge of data before I go?
+### Ohhhh, how about just a smidge of data before I go?
 
-Right now on kayak, if I look for three star hotels in Brooklyn using the same dates and number guests, I do not get a median fof $489. One hotel, Hotel Le Bleu, is exactly $489 (the purported median), and then there is one priced higher than that, the Pointe Plaza at $656. Then there are seventeen that are lower than $489, and thirteen listings that do not have published prices. [Here's a table of the current kayak data](https://github.com/laurieskelly/hotwire_scam/blob/master/kayak_data.md).
+Right now on kayak, there are 32 listings for three star hotels in Brooklyn, and using the same dates and number of guests that I used on hotwire, I do not get a median of $489. One hotel, Hotel Le Bleu, is exactly $489. So if it is the median, half of the other hotels should be more expensive and the rest should be cheaper. There is only one priced higher than that, the Pointe Plaza at $656. Then there are seventeen that are lower than $489, and thirteen listings that do not have published prices. [Here's a table of the current kayak data](https://github.com/laurieskelly/hotwire_scam/blob/master/kayak_data.md).
 
 Even if hotwire gets to use some funky definition of "published", and even if every single unpublished listing is over $489, (this is the fun part about medians), the median of these 32 listings is $285, not $489. That would make the "Hot Rate Hotel" "discount" 45%, not 68%. 
 
