@@ -1,7 +1,7 @@
 
 ### **True confessions** I was tricked by a Hotwire scam: *the "hot rate hotel" story*
 
-This is the place where I will tell you the story about how hotwire.com uses language, typography, and UX to scam their customers into unloading their lowest-quality inventory in the belief that they are getting an amazing deal on a higher-priced hotel. They did it to me and I want my money back. 
+This is the story about how hotwire scams their customers into unloading their lowest-quality inventory, using language, typography, and UX to lead them to believe they are getting an amazing deal on a higher-priced hotel. They did it to me and I want my money back. At the very least, I don't want any of my friends to fall for this scam themselves. 
 
 If you are a lawyer and believe that hotwire.com is crossing legal lines as well as those of poor taste, please contact me. 
 
