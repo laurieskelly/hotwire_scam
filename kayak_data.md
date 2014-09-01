@@ -1,5 +1,5 @@
 ###Three-star hotels in Brooklyn for 9/11-9/14, 2 adult guests  
-*Accessed 8/31/14*
+*Accessed 8/31/14*  
 If every "call" price is above $489, the highest possible median of this list would be **$285**.
 If "call" prices are "unpublished", the median of this list is *$210*.
 
