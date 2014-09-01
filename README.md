@@ -14,7 +14,7 @@ Look at the image below, specifically at the two places where the $489 figure is
 
 ![](advertised_price.jpg)
 
-If you look at the right side, (under the stars) you can notice a small separation between the crossed-out number and the plus sign, but on the right under "standard price" the line is completely continuous through all of the symbols. The eagle-eyed consumer might have noticed the gap and gone to the foot of the page for a disclaimer. The woman at the call center called it an asterisk (*), but it's a [double dagger](http://en.wikipedia.org/wiki/Dagger_(typography)) (‡). The double dagger less common than the asterisk, but it is also a symbol that is used to direct a reader to a footnote. In this case, though, you can't deny that it conveniently and drastically reduces the chance that the visitor will notice the superscript mark and go read the fine print. 
+If you look at the right side, (under the stars) you can notice a small separation between the crossed-out number and the plus sign, but on the right under "standard price" the line is completely continuous through all of the symbols. The eagle-eyed consumer might have noticed the gap and gone to the foot of the page for a disclaimer. The woman at the call center called it an asterisk (*), but it's a [double dagger](http://en.wikipedia.org/wiki/Dagger_(typography)) (‡). The double dagger is less common than the asterisk, but it is also a symbol that is used to direct a reader to a footnote. In this case, though, you can't deny that it conveniently and drastically reduces the chance that the visitor will notice the superscript mark and go read the fine print. 
 
 ### The footnote
 
