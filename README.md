@@ -44,7 +44,7 @@ On the phone, the customer service agent also explained to me what a median is. 
 
 ### Oh, how about just a smidge of data before I go?
 
-Right now on kayak, if I look for three star hotels in Brooklyn using the same dates and number guests, I do not get a median fof $489. One hotel, Hotel Le Bleu, is exactly $489 (the purported median), and then there is one priced higher than that, the Pointe Plaza at $656. Then there are seventeen that are lower than $489, and thirteen listings that do not have published prices. 
+Right now on kayak, if I look for three star hotels in Brooklyn using the same dates and number guests, I do not get a median fof $489. One hotel, Hotel Le Bleu, is exactly $489 (the purported median), and then there is one priced higher than that, the Pointe Plaza at $656. Then there are seventeen that are lower than $489, and thirteen listings that do not have published prices. [Here's a table of the current kayak data](https://github.com/laurieskelly/hotwire_scam/blob/master/kayak_data.md).
 
 Even if hotwire gets to use some funky definition of "published", and even if every single unpublished listing is over $489, (this is the fun part about medians), the median of these 32 listings is $285, not $489. That would make the "Hot Rate Hotel" "discount" 45%, not 68%. 
 
