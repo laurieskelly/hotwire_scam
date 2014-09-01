@@ -22,7 +22,7 @@ Ok, so if you do go down to the footnote, you get this:
 
 ![](footnote.jpg)
 
-(You can download a pdf of the full hotwire page from [the root of this repo](https://github.com/laurieskelly/hotwire_scam).
+(You can download a pdf of the full hotwire page that I sawfrom [the root of this repo](https://github.com/laurieskelly/hotwire_scam).)
 
 This footnote explains that the "Standard Price" of $489 is not the price that one would normally pay for the room that I was about to book blind. The standard price, which they list right above the hotwire price, is just an interesting factoid about hotel rooms in that neighborhood in general. 
 
