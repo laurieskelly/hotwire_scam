@@ -1,7 +1,7 @@
 
-### True confessions: I was tricked by a Hotwire scam
+### The Double Dagger: how Hotwire scammed me with ingeniously evil typography
 
-This is the story about how [hotwire](http://www.glassdoor.com/Reviews/Hotwire-Reviews-E14912.htm?sort.sortType=OR&sort.ascending=true) scams their customers into unloading the site's lowest-quality inventory: using tricks of language, typography, and UX, hotwire implies the customer is getting an amazing deal on a higher-priced hotel, when they are just getting a room in a hotel that is not as nice as the other hotels in its neighborhood. 
+This is a story about how [hotwire](http://www.glassdoor.com/Reviews/Hotwire-Reviews-E14912.htm?sort.sortType=OR&sort.ascending=true) uses  [Dark Patterns UX](http://darkpatterns.org/) to scam their customers into unloading the site's lowest-quality inventory: using tricks of visual language, typography, and UX, hotwire implies the customer is getting an amazing deal on a higher-priced hotel, when they are just getting a room in a hotel that is not as nice as the other hotels in its neighborhood. 
 
 It's like saying you're getting a great deal on a yacht because you're actually buying a surprise rowboat. 
 
